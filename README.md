@@ -85,11 +85,6 @@
 
 
 
-
-7 tables:
-
-
-
 | Table | Purpose |
 
 |---|---|
