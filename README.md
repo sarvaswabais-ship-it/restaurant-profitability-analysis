@@ -32,7 +32,7 @@
 
 
 
-\## 1. Purpose
+## 1. Purpose
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-\## 2. Business problem:
+## 2. Business problem:
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-\## 3. Project Objectives
+## 3. Project Objectives
 
 
 
@@ -94,15 +94,6 @@
 
 
 
-
-
-
-\## 5. Tools \& Technologies
-
-
-
-
-
 * Python
 * Pandas
 * NumPy
@@ -114,8 +105,7 @@
 
 
 
-
-\## 6. Analytical Approach
+## 6. Analytical Approach
 
 
 
@@ -129,7 +119,7 @@
 
 
 
-\## 7. Key Findings
+## 7. Key Findings
 
 
 
@@ -154,7 +144,7 @@
 
 
 
-\## 8. Recommendations
+## 8. Recommendations
 
 
 
@@ -177,7 +167,7 @@
 
 
 
-\## 9. Data Quality \& Limitations
+## 9. Data Quality \& Limitations
 
 
 
@@ -195,7 +185,7 @@
 
 
 
-\## 10. Project Files
+## 10. Project Files
 
 
 
@@ -217,7 +207,7 @@
 
 
 
-\## 11 Conclusion 
+## 11 Conclusion 
 
 
 
