@@ -1,0 +1,9 @@
+branch_id,branch_name,city,area,opening_date,branch_type
+B01,Central,Indore,MG Road,2022-01-15,Premium
+B02,Vijay Nagar,Indore,Vijay Nagar,2022-06-01,High-volume
+B03,Palasia,Indore,Palasia,2023-02-10,Premium
+B04,Rau,Indore,Rau,2023-08-20,Standard
+B05,Scheme 78,Indore,Scheme 78,2024-01-05,High-volume
+B06,Bhawarkua,Indore,Bhawarkua,2024-05-15,Standard
+B07,Airport,Indore,Airport Road,2024-11-01,Premium
+B08,Super Corridor,Indore,Super Corridor,2025-03-10,High-volume

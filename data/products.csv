@@ -1,0 +1,57 @@
+product_id,product_name,category,selling_price,unit_food_cost
+P001,Burgers Item 1,Burgers,251.0,121.36
+P002,Burgers Item 2,Burgers,224.0,97.56
+P003,Burgers Item 3,BURGERS,220.0,53.0
+P004,Burgers Item 4,Burgers,220.0,117.0
+P005,Burgers Item 5,Burgers,295.0,67.09
+P006,Burgers Item 6,Burgers,262.0,149.12
+P007,Burgers Item 7,Burgers,211.0,60.23
+P008,Burgers Item 8,Burgers,252.0,72.08
+P009,Pizza Item 1,Pizza,324.0,121.66
+P010,Pizza Item 2,Pizza,203.0,65.94
+P011,Pizza Item 3,pizza,253.0,82.27
+P012,Pizza Item 4,Pizza,328.0,115.42
+P013,Pizza Item 5,Pizza,392.0,114.42
+P014,Pizza Item 6,Pizza,297.0,120.32
+P015,Pizza Item 7,Pizza,280.0,122.84
+P016,Pizza Item 8,Pizza,316.0,88.92
+P017,Main Course Item 1,Main Course,250.0,116.58
+P018,Main Course Item 2,Main Course,265.0,100.29
+P019,Main Course Item 3,Main Course,279.0,64.83
+P020,Main Course Item 4,Main Course,227.0,124.25
+P021,Main Course Item 5,Main Course,321.0,106.64
+P022,Main Course Item 6,main course,218.0,88.77
+P023,Main Course Item 7,Main Course,213.0,121.21
+P024,Main Course Item 8,Main Course,290.0,144.72
+P025,Snacks Item 1,Snacks,170.0,42.82
+P026,Snacks Item 2,Snacks,155.0,45.04
+P027,Snacks Item 3,Snacks,147.0,52.91
+P028,Snacks Item 4,Snacks,142.0,45.11
+P029,Snacks Item 5,Snacks,138.0,44.32
+P030,Snacks Item 6,Snacks,179.0,74.35
+P031,Snacks Item 7,Snacks,159.0,39.25
+P032,Snacks Item 8,Snacks,140.0,80.54
+P033,Beverages Item 1,Beverages,88.0,19.53
+P034,Beverages Item 2,Beverages,111.0,57.01
+P035,Beverages Item 3,Beverages,119.0,59.22
+P036,Beverages Item 4,Beverages,117.0,28.86
+P037,Beverages Item 5,Beverages,85.0,45.11
+P038,Beverages Item 6,Beverages,94.0,41.77
+P039,Beverages Item 7,beverages,91.0,30.21
+P040,Beverages Item 8,Beverages,97.0,32.7
+P041,Desserts Item 1,DESSERTS,160.0,86.3
+P042,Desserts Item 2,DESSERTS,174.0,67.86
+P043,Desserts Item 3,Desserts,149.0,73.59
+P044,Desserts Item 4,Desserts,124.0,52.34
+P045,Desserts Item 5,Desserts,139.0,56.74
+P046,Desserts Item 6,Desserts,179.0,66.93
+P047,Desserts Item 7,Desserts,142.0,47.31
+P048,Desserts Item 8,Desserts,132.0,53.21
+P049,Combos Item 1,combos,346.0,127.24
+P050,Combos Item 2,Combos,383.0,188.44
+P051,Combos Item 3,Combos,308.0,170.84
+P052,Combos Item 4,COMBOS,327.0,167.07
+P053,Combos Item 5,Combos,419.0,213.41
+P054,Combos Item 6,Combos,381.0,109.41
+P055,Combos Item 7,Combos,366.0,186.91
+P056,Combos Item 8,Combos,423.0,229.52
