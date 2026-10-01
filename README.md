@@ -7,7 +7,7 @@
 3. Project Objectives
 4. Dataset
 5. Tools & Technologies
-6. Methodology
+6. Analysis Approach
 7. Key Findings
 8. Recommendations
 9. Data Quality Issues
