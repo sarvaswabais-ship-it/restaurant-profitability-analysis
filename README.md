@@ -76,33 +76,21 @@
 
 
 
-
-
-
-
-\## 4. Dataset
-
-
-
+## 4. Dataset
 
 | Table | Purpose |
-
 |---|---|
-
 | Orders | Orders, revenue, discounts, status, channel |
-
 | Order Items | Product-level quantities and prices |
-
 | Products | Product/category and food-cost information |
-
 | Delivery | Delivery-related costs/status |
-
 | Operating Costs | Operating expenses |
-
 | Branches | Branch information |
-
 | Customers | Customer information |
 
+
+
+## 5. Tools & Technologies
 
 
 
