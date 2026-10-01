@@ -1,28 +1,17 @@
-# &#x20;**Restaurant Profitability Analysis**
+# Restaurant Profitability Analysis
 
+## Table of Contents
 
-
-
-
-
-
-#### &#x20;   **Table of Contents**
-
-
-
-
-
-* 1\.  Purpose
-* 2\.  Business Problem
-* 3\.  Project Objectives
-* 4\.  Dataset
-* 5\.  Tools \& Technologies
-* 6\.  Analytical Approach
-* 7\.  Key Findings
-* 8\.  Recommendations
-* 9\.  Data Quality \& Limitations
-* 10\. Project Files
-* 11\. Conclusion
+1. Purpose
+2. Business Problem
+3. Project Objectives
+4. Dataset
+5. Tools & Technologies
+6. Methodology
+7. Key Findings
+8. Recommendations
+9. Data Quality Issues
+10. Conclusion
 
 
 
